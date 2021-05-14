@@ -13,7 +13,7 @@ const aboutMe = {
          python: ["Keras", "tensorflow"]
       },
       frontEnd: {
-         js: ["Vue"],
+         js: ["Vue", "React.js"],
          css: ["Bootstrap", "Material Design", "Vuetify"]
       },
       backEnd: {
