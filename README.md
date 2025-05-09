@@ -1,38 +1,34 @@
-### Hi there 👋 I'm Jaime Aza
+# 👋 Hola, soy Jaime Aza
 
-</em></p>
+Soy un **ingeniero y desarrollador de software fullstack** con experiencia en la construcción de aplicaciones web modernas, sistemas backend escalables y soluciones impulsadas por inteligencia artificial. Me apasiona crear productos útiles, desde la idea hasta el despliegue, integrando tecnología con propósito.
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+## 💻 Tecnologías y herramientas que uso frecuentemente
 
-```javascript
-const aboutMe = {
-   code: [Javascript, Python],
-   technologies: {
-      AI: {
-         python: ["Keras", "tensorflow"]
-      },
-      frontEnd: {
-         js: ["React.js"],
-         css: ["Styled-component", "Material UI"]
-      },
-      backEnd: {
-         Python: ["flask"],
-         js: ["Node", "Express"],
-      },
-      databases: ["Postgres", "MongoDB"],
-   },
-};
-```
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+- **Frontend**: React, TypeScript, TailwindCSS, Vite, Material UI
+- **Backend**: Python, Django REST Framework, FastAPI, PostgreSQL
+- **DevOps / Infra**: Docker, Railway, Supabase, Cloudflare, Vercel
+- **IA / Automatización**: OpenAI GPT, LangChain, n8n, Telegram Bots
+- **Otras herramientas**: Git, GitHub Actions, Figma, Notion
 
-### Github Stats
+## 🚀 Proyectos destacados
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jjat00)](https://github.com/anuraghazra/github-readme-stats)
+- **Tresqu**: App de finanzas personales con un agente de IA que registra gastos vía Telegram. Pronto integrará WhatsApp y versiones premium.
+- **AyudApp**: Plataforma colaborativa para conectar personas que necesitan ayuda local o remota, con reputación, emparejamiento inteligente y sistema de certificaciones.
+- **Gemelos Digitales**: Infraestructura para representar entidades del mundo real y sus interacciones, utilizada en industrias como petróleo y construcción.
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jjat00&show_icons=true&theme=radical)
+## 🧠 Intereses
 
-### Wakatime Stats
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jjat00)](https://github.com/Jjat00/github-readme-stats)
+- IA aplicada (Agentes, RAG, NLP)
+- Desarrollo de productos con alto impacto social
+- Automatización de procesos y eficiencia
+- Educación financiera y herramientas digitales accesibles
 
-<h3> 🤝🏻 Connect with Me </h3>
-<img alt="Email" src="https://img.shields.io/badge/Email-userjjat00@gmail.com-blue?style=flat&logo=gmail">
+## 📫 Conecta conmigo
+
+- Portafolio: [jaimeaza.pages.dev](https://jaimeaza.pages.dev)
+- LinkedIn: [linkedin.com/in/jaimeaza](https://linkedin.com/in/jaimeaza)
+- Email: userjjat00@gmail.com
+
+---
+
+> *“Construyendo productos simples para resolver problemas reales con tecnología inteligente.”*
