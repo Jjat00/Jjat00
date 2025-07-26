@@ -8,7 +8,7 @@ Soy un **ingeniero y desarrollador de software fullstack** con experiencia en la
 - **Backend**: Python, Django REST Framework, FastAPI, PostgreSQL, Node.js
 - **DevOps / Infra**: Docker, Railway, Supabase, Cloudflare, Vercel
 - **IA / Automatización**: OpenAI GPT, LangChain, n8n, Telegram Bots
-- **Otras herramientas**: Git, GitHub Actions, lavable, cursoor
+- **Otras herramientas**: Git, GitHub Actions, lovable, cursor
 
 ## 🚀 Proyectos destacados
 
