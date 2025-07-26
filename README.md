@@ -8,7 +8,7 @@ Soy un **ingeniero y desarrollador de software fullstack** con experiencia en la
 - **Backend**: Python, Django REST Framework, FastAPI, PostgreSQL, Node.js
 - **DevOps / Infra**: Docker, Railway, Supabase, Cloudflare, Vercel
 - **IA / Automatización**: OpenAI GPT, LangChain, n8n, Telegram Bots
-- **Otras herramientas**: Git, GitHub Actions, Figma, Notion
+- **Otras herramientas**: Git, GitHub Actions, lavable, cursoor
 
 ## 🚀 Proyectos destacados
 
@@ -17,17 +17,16 @@ Soy un **ingeniero y desarrollador de software fullstack** con experiencia en la
 
 ## 🧠 Intereses
 
-- IA aplicada (Agentes, RAG, NLP)
+- IA aplicada (Agentes, RAG, embeddings)
 - Desarrollo de productos con alto impacto social
 - Automatización de procesos y eficiencia
 - Educación financiera y herramientas digitales accesibles
 
 ## 📫 Conecta conmigo
 
-- Portafolio: [jaimeaza.pages.dev](https://jaimeaza.pages.dev)
+- Portafolio: [jaime.aza](https://jaimeaza.tech/)
 - LinkedIn: [linkedin.com/in/jaimeaza](https://linkedin.com/in/jaimeaza)
 - Email: userjjat00@gmail.com
 
 ---
 
-> *“Construyendo productos simples para resolver problemas reales con tecnología inteligente.”*
