@@ -22,7 +22,7 @@
 ## 🧠 Intereses
 
 - IA aplicada
-- Desarrollo de productos con vibe engineering
+- Desarrollo de productos
 
 ## 📫 Conecta conmigo
 
