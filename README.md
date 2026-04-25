@@ -1,34 +1,36 @@
-# 👋 Hola, soy Jaime Aza
+# Jaime Aza
 
-💻 Software developer engineer | 📍 Colombia
+AI Developer & Full-stack Engineer · Colombia · trabajo remoto desde 2021
+
+🏆 1er lugar — **AI Hackathon · Colombia Tech Week 2025** (track *Best Agentic App in WhatsApp*, +150 participantes)
+
+📍 Construyo productos orquestando agentes de IA (Claude Code · subagents · skills · MCP · CLIs)
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![OpenAI](https://img.shields.io/badge/-OpenAI-121212?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/-Claude%20Code-000000?style=flat-square&logo=anthropic&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-0A0A0A?style=flat-square&logo=chainlink&logoColor=white)
+![Claude%20Code](https://img.shields.io/badge/-Claude%20Code-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square&logo=python&logoColor=white)
-![AI%20Agents](https://img.shields.io/badge/-AI%20Agents-5A29E4?style=flat-square&logo=robotframework&logoColor=white)
-![RAG](https://img.shields.io/badge/-RAG-FF6F00?style=flat-square&logo=readthedocs&logoColor=white)
+![RAG](https://img.shields.io/badge/-RAG%20multimodal-FF6F00?style=flat-square&logo=readthedocs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![pgvector](https://img.shields.io/badge/-pgvector-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/-Workers%20%2B%20DO-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-## 🚀 Proyectos destacados
+## Productos en producción
 
-- **[Tresqu](https://tresqu.com/)**: Asistente financiero personal potenciado por IA que opera principalmente desde WhatsApp. .
-- **[Festora](https://festora-gamma.vercel.app/)**: Plataforma profesional de entrega de galerías para fotógrafos con IA multimodal de última generación. 
+| Proyecto | Qué resuelve | Stack clave |
+|---|---|---|
+| <a href="https://tresqu.com/" target="_blank" rel="noopener"><strong>Tresqu</strong></a> | Asistente inteligente financiero por WhatsApp y RAG sobre tu historial | LangChain · OpenAI · pgvector · Django |
+| <a href="https://festora-gamma.vercel.app/" target="_blank" rel="noopener"><strong>Festora</strong></a> | Galerías para fotógrafos con scoring IA y búsqueda semántica de fotos | GPT-4o · Gemini Embedding 2 · pgvector · Next.js |
+| <a href="https://frostbyte.com.co/landing" target="_blank" rel="noopener"><strong>Frostbyte</strong></a> | SaaS para bares y restaurantes con menú IA, generador de imágenes y juego multiplayer | GPT-4o-mini · GPT Image 1.5 · WebSocket · Django |
+| <a href="https://keyduelo.vercel.app/" target="_blank" rel="noopener"><strong>Keyduelo</strong></a> | Carrera de tipeo multiplayer en tiempo real, anti-cheat server-side | Cloudflare Durable Objects · WebSocket Hibernation · Next.js 16 |
+| <a href="https://image-to-xyz.vercel.app/" target="_blank" rel="noopener"><strong>image_to_xyz</strong></a> | Convierte imágenes 2D en nubes de puntos 3D navegables | Depth-Anything-V2 · Three.js · FastAPI |
 
-## 🧠 Intereses
+→ Más detalle, demos en vivo y código en <a href="https://jaimeaza.tech/" target="_blank" rel="noopener"><strong>jaimeaza.tech</strong></a>
 
-- IA aplicada
-- Desarrollo de productos
+## Conecta
 
-## 📫 Conecta conmigo
-
-- Portafolio: [jaime.aza](https://jaimeaza.tech/)
-- LinkedIn: [linkedin.com/in/jaimeaza](https://linkedin.com/in/jaimeaza)
-- Email: userjjat00@gmail.com
-
----
-
+<a href="https://linkedin.com/in/jaimeaza" target="_blank" rel="noopener">LinkedIn</a> · <a href="https://jaimeaza.tech/" target="_blank" rel="noopener">Portafolio</a> · <a href="mailto:userjjat00@gmail.com">userjjat00@gmail.com</a>
