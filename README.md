@@ -26,7 +26,7 @@ AI Developer & Full-stack Engineer · Colombia · trabajo remoto desde 2021
 | Proyecto | Qué resuelve | Stack clave |
 |---|---|---|
 | <a href="https://tranquera.vercel.app/" target="_blank" rel="noopener"><strong>Tranquera</strong></a> | Proxy de alineamiento organizacional para Claude Code: políticas no-code en runtime con cascada Regex → Pattern → Haiku judge (&lt;200ms) | Claude Haiku 4.5 · FastAPI · Next.js 16 · pgvector |
-| <a href="https://tresqu.com/" target="_blank" rel="noopener"><strong>Tresqu</strong></a> | Asistente financiero por WhatsApp con NLP y RAG sobre tu historial | LangChain · OpenAI · pgvector · Django |
+| <a href="https://tresqu.com/" target="_blank" rel="noopener"><strong>Tresqu</strong></a> | Un equipo de agentes financieros con los que hablas por chat — desde WhatsApp, Telegram, Gmail o web | LangChain · OpenAI · pgvector · Django |
 | <a href="https://festora-gamma.vercel.app/" target="_blank" rel="noopener"><strong>Festora</strong></a> | Galerías para fotógrafos con scoring IA y búsqueda semántica de fotos | GPT-4o · Gemini Embedding 2 · pgvector · Next.js |
 | <a href="https://frostbyte.com.co/landing" target="_blank" rel="noopener"><strong>Frostbyte</strong></a> | SaaS para bares y restaurantes con menú IA, generador de imágenes y juego multiplayer | GPT-4o-mini · GPT Image 1.5 · WebSocket · Django |
 | <a href="https://keyduelo.vercel.app/" target="_blank" rel="noopener"><strong>Keyduelo</strong></a> | Carrera de tipeo multiplayer en tiempo real, anti-cheat server-side | Cloudflare Durable Objects · WebSocket Hibernation · Next.js 16 |
