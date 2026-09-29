@@ -32,7 +32,7 @@ I take AI products from idea to production: agents that talk to real users over 
 | [**Tranquera**](https://tranquera.vercel.app/) | Organizational alignment proxy for Claude Code: no-code runtime policies with a Regex → Pattern → Haiku judge cascade (&lt;200 ms). Platanus Hack 26 winner | Claude Haiku 4.5 · FastAPI · Next.js 16 · pgvector |
 | [**Tresqu**](https://tresqu.com/) | A team of financial agents you talk to over WhatsApp, Telegram, Gmail or web | LangChain · OpenAI · pgvector · Django |
 | [**Frostbyte**](https://frostbyte.com.co/landing) | AI-first SaaS for bars and restaurants: a WhatsApp agent that takes orders by text or voice and reads payment receipts, AI menu and product photos, multiplayer game | LangGraph · GPT-4o-mini · WebSocket · Django |
-| [**Festora**](https://festora-gamma.vercel.app/) | Photographer galleries with AI scoring and semantic photo search | GPT-4o · Gemini Embedding 2 · pgvector · Next.js |
+| [**Festora**](https://festora.studio/) | Photographer galleries with AI scoring and semantic photo search | GPT-4o · Gemini Embedding 2 · pgvector · Next.js |
 
 ## Open source
 
