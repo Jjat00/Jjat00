@@ -39,6 +39,7 @@ I take AI products from idea to production: agents that talk to real users over 
 | Repo | What it does | Key stack |
 |---|---|---|
 | [**hf-studio**](https://github.com/Jjat00/hf-studio) | Self-hosted AI video, image and audio studio on Higgsfield and ElevenLabs. Its MCP server lets Claude Code, Codex and ChatGPT generate for you, and an agent can't spend credits without quoting first. REST API + web UI, CI on Windows, macOS and Linux | Python · FastAPI · MCP · Next.js 16 |
+| [**parkboard**](https://github.com/Jjat00/parkboard) | Infinite canvas for the side tasks, ideas and bugs that come up while you work with AI agents. Say "let's leave that for later" and the agent parks it with the `park` CLI, with context and a link back to the session it came from. [Landing](https://parkboard.jaimeaza.tech) | Next.js 16 · React Flow · Prisma 7 · Agent CLI |
 | [**keyduelo**](https://github.com/Jjat00/keyduelo) | Real-time multiplayer typing race with server-side anti-cheat | Cloudflare Durable Objects · WebSocket Hibernation · Next.js 16 |
 | [**image_to_xyz**](https://github.com/Jjat00/image_to_xyz) | Turns 2D images into navigable 3D point clouds | Depth-Anything-V2 · Three.js · FastAPI |
 | [**jjat-skills**](https://github.com/Jjat00/jjat-skills) | Claude Code skills for AI agent development | Claude Code · Agent Skills |
