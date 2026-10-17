@@ -22,13 +22,13 @@ Llevo productos de IA de la idea a producción: agentes que atienden usuarios re
 
 | Repo | Qué hace | Stack clave |
 |---|---|---|
-| [**hf-studio**](https://github.com/Jjat00/hf-studio) | Estudio autoalojado de video, imagen y audio con IA sobre Higgsfield y ElevenLabs. Su servidor MCP deja que Claude Code, Codex y ChatGPT generen por ti, y un agente no puede gastar créditos sin cotizar antes. API REST + interfaz web, CI en Windows, macOS y Linux | Python · FastAPI · MCP · Next.js 16 |
-| [**parkboard**](https://github.com/Jjat00/parkboard) | Lienzo infinito para las tareas, ideas y bugs que salen mientras trabajas con agentes de IA. Dices «dejémoslo para después» y el agente la parquea con el CLI `park`, con contexto y un enlace a la sesión donde nació. [Landing](https://parkboard.jaimeaza.tech) | Next.js 16 · React Flow · Prisma 7 · CLI para agentes |
-| [**keyduelo**](https://github.com/Jjat00/keyduelo) | Carrera de tipeo multiplayer en tiempo real, con anti-cheat en el servidor | Cloudflare Durable Objects · WebSocket Hibernation · Next.js 16 |
+| [**hf-studio**](https://github.com/Jjat00/hf-studio) | Estudio autoalojado de video, imagen y audio con IA sobre Higgsfield y ElevenLabs. Cotiza el mismo modelo en Higgsfield, APIMart y KIE y lo corre en el más barato. Su servidor MCP deja que Claude Code, Codex y ChatGPT generen por ti, y un agente no puede gastar créditos sin cotizar antes. API REST + interfaz web, CI en Windows, macOS y Linux. [En vivo](https://hf-studio.jato.run) | Python · FastAPI · MCP · Next.js 16 |
+| [**parkboard**](https://github.com/Jjat00/parkboard) | Lienzo infinito para las tareas, ideas y bugs que salen mientras trabajas con agentes de IA. Dices «dejémoslo para después» y el agente la parquea con el CLI `park`, con contexto y un enlace a la sesión donde nació. Cifrado en reposo, y Autopilot toma las tarjetas que marcas y les abre PRs en borrador. [Landing](https://parkboard.jato.run) | Next.js 16 · React Flow · Prisma 7 · CLI para agentes · Claude Code |
+| [**keyduelo**](https://github.com/Jjat00/keyduelo) | Carrera de tipeo multiplayer en tiempo real, con anti-cheat en el servidor. [Jugar](https://keyduelo.jato.run) | Cloudflare Durable Objects · WebSocket Hibernation · Next.js 16 |
 | [**image_to_xyz**](https://github.com/Jjat00/image_to_xyz) | Convierte imágenes 2D en nubes de puntos 3D navegables | Depth-Anything-V2 · Three.js · FastAPI |
-| [**jjat-skills**](https://github.com/Jjat00/jjat-skills) | Skills de Claude Code para desarrollar agentes de IA | Claude Code · Agent Skills |
+| [**jjat-skills**](https://github.com/Jjat00/jjat-skills) | Skills para que Claude Code y Codex hagan trabajos completos a partir de una frase: reels editoriales, videos con letras, videos de ubicación con dron, explicadores narrados, carruseles de noticias de IA y evaluación de agentes. [Landing](https://skills.jato.run) ([repo](https://github.com/Jjat00/jato-skills)) | Claude Code · Codex · Agent Skills · HyperFrames |
 
-→ Demos en vivo, casos y cómo trabajo en [**jaimeaza.tech**](https://jaimeaza.tech/)
+→ Demos en vivo, casos y cómo trabajo en [**jaimeaza.tech**](https://jaimeaza.tech/) · mis proyectos viven bajo [**jato.run**](https://jato.run) ([repo](https://github.com/Jjat00/jato))
 
 ## Conecta
 
